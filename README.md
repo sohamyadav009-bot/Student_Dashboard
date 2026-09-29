@@ -174,7 +174,7 @@ The project's file structure looks like this:
 
 
 
-Student Helper/
+Student Dashboard/
 
 
 
