@@ -154,7 +154,7 @@ Finally, you should be able to run the following command:
 
 
 
-python main.py
+python Student_Dashboard.py
 
 
 
